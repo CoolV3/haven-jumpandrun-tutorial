@@ -1,5 +1,0 @@
-[gd_scene format=3 uid="uid://dmuvmir3f64v3"]
-
-[node name="Node2D" type="Node2D" unique_id=810512331]
-
-[node name="Camera2D" type="Camera2D" parent="." unique_id=1945958156]
